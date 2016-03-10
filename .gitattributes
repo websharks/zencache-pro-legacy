@@ -168,5 +168,3 @@
 /.build.props export-ignore
 /build.xml export-ignore
 
-# LFS storage locations.
-assets/** filter=lfs diff=lfs merge=lfs -text
