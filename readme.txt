@@ -16,7 +16,11 @@ ZenCache is an advanced WordPress caching plugin inspired by simplicity. Speed u
 
 == Description ==
 
-**~Announcement: ZenCache is changing its name to Comet Cache! [Learn more](https://cometcache.com/r/announcing-comet-cache-formerly-zencache/).~**
+**ANNOUNCEMENT: [ZenCache is now Comet Cache!](https://cometcache.com/r/announcing-comet-cache-formerly-zencache/)**
+
+**To receive plugin updates and bug fixes, please install [Comet Cache](https://wordpress.org/plugins/comet-cache/) instead.**
+
+================================================================
 
 If you care about the speed of your site, ZenCache is one of those plugins that you absolutely MUST have installed :-) ZenCache takes a real-time snapshot (building a cache) of every Page, Post, Category, Link, etc. These snapshots are then stored (cached) intuitively, so they can be referenced later, in order to save all of that processing time that has been dragging your site down and costing you money.
 
